@@ -4,7 +4,7 @@ This Windows application only shows info about broadlink type SP2 devices attach
 
 To try it, download it and install Code::Blocks with TDM compiler, create new project and paste all this projects files.
 
-Install winsdksetup.exe and configure as linked libraries iphlpapi.lib and WS2_32.Lib in the code::blocks project settings.
+Install visualcppbuildtools_full.exe or winsdksetup.exe and configure as linked libraries iphlpapi.lib and WS2_32.Lib in the code::blocks project settings.
 
 To do it, open code::blocks, go to settings->Compiler...->Linker Settings
 
