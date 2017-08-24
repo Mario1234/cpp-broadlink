@@ -11,7 +11,9 @@ To do it, open code::blocks, go to settings->Compiler...->Linker Settings
 Click Add button in Link libraries and add each location of the two libraries.
 
 In my case locations are:
+
 C:\Program Files (x86)\Windows Kits\10\Lib\10.0.15063.0\um\x64\iphlpapi.lib
+
 C:\Program Files (x86)\Windows Kits\10\Lib\10.0.15063.0\um\x64\WS2_32.Lib
 
 Main code file to execute is PruebaDescubrimiento.cpp
